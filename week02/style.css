@@ -6,8 +6,8 @@
 /* 整個網頁的基本設定 */
 body {
   margin: 0;
-  color: #f642c6;
-  background-color: hsl(321, 100%, 75%);
+  color: #000000;
+  background-color: hsl(321, 98%, 80%);
   font-family: Arial, "Microsoft JhengHei", sans-serif;
   line-height: 1.6;
 }
@@ -18,7 +18,7 @@ footer {
   padding: 24px;
   color: white;
   text-align: center;
-  background-color: #fdb5ff;
+  background-color: hsl(321, 98%, 80%);
 }
 
 /* 導覽列 */
