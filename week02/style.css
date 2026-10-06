@@ -6,8 +6,8 @@
 /* 整個網頁的基本設定 */
 body {
   margin: 0;
-  color: #dccdd8;
-  background-color: #fab4e2;
+  color: #f642c6;
+  background-color: hsl(321, 100%, 75%);
   font-family: Arial, "Microsoft JhengHei", sans-serif;
   line-height: 1.6;
 }
